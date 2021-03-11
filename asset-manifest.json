@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/conversionCalculator/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/conversionCalculator/static/js/main.57d64fb5.chunk.js",
+    "main.js.map": "/conversionCalculator/static/js/main.57d64fb5.chunk.js.map",
+    "runtime-main.js": "/conversionCalculator/static/js/runtime-main.1dd5713a.js",
+    "runtime-main.js.map": "/conversionCalculator/static/js/runtime-main.1dd5713a.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/conversionCalculator/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.37a120f2.chunk.js": "/conversionCalculator/static/js/2.37a120f2.chunk.js",
+    "static/js/2.37a120f2.chunk.js.map": "/conversionCalculator/static/js/2.37a120f2.chunk.js.map",
+    "index.html": "/conversionCalculator/index.html",
+    "precache-manifest.f3344dccfddd024f849248bf380dce23.js": "/conversionCalculator/precache-manifest.f3344dccfddd024f849248bf380dce23.js",
+    "service-worker.js": "/conversionCalculator/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/conversionCalculator/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.eab24d3c.chunk.css.map": "/conversionCalculator/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.37a120f2.chunk.js.LICENSE.txt": "/conversionCalculator/static/js/2.37a120f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd5713a.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.37a120f2.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.57d64fb5.chunk.js"
+  ]
+}
